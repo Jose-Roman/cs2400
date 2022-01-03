@@ -1,4 +1,3 @@
-//Jose Roman
 public class Book 
  {
   private String title;
@@ -22,6 +21,4 @@ public class Book
   {
     return title;
   }
-  
-  
 }
